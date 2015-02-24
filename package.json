@@ -38,7 +38,7 @@
     "passport"
   ],
   "dependencies": {
-    "chalk": "^0.5.0",
+    "chalk": "^1.0.0",
     "yeoman-generator": "^0.18.0"
   },
   "devDependencies": {
